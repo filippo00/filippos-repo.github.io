@@ -1,6 +1,6 @@
 Package: com.filippo.kodi
 Version: 17.6
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm
 Maintainer: filippo
 Depends: <bundleids>
 Filename: kodi_17.6.deb
